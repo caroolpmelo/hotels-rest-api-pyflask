@@ -3,7 +3,8 @@
 ### This application is a study of Python 3 using Flask to make a RESTful API.
 
 #### Implementations
-- [ ] Basic REST CRUD
+
+- [x] Basic REST CRUD
 - [ ] Database integration
 - [ ] Token-Based Authentication
 - [ ] Advanced queries
